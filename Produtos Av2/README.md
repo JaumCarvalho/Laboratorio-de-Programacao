@@ -10,8 +10,6 @@ As funções `map`, `reduce`, `filter` são representações claras do paradigma
 
 Em contraste, ao adotar o paradigma imperativo, o código pode se tornar mais verboso e propenso a erros, especialmente em situações complexas. Isso ocorre porque o desenvolvedor precisa gerenciar explicitamente o estado do programa e acompanhar as mudanças nas variáveis ao longo do tempo.
 
-Em resumo, tanto o paradigma funcional quanto o paradigma imperativo têm seu lugar em JavaScript, e a escolha entre eles muitas vezes depende das necessidades específicas do projeto, da preferência do desenvolvedor e do estilo de codificação preferido. Ao compreender e aplicar eficazmente esses paradigmas, os desenvolvedores podem escrever código mais limpo, modular e robusto em JavaScript.
-
 ## Comparação com as funções filter, reduce e map
 
 ## Função filter()
