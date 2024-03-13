@@ -1,4 +1,4 @@
-# USO DE FOR LOOPS "DESNECESSÁRIOS" EM JAVASCRIPT - PARADIGMA FUNCIONAL X PARADIGMA IMPERATIVO
+# PARADIGMA FUNCIONAL X PARADIGMA IMPERATIVO EM JAVASCRIPT
 ## Função filter()
 A função filter() é usada para criar um novo array com todos os elementos que passam em um teste implementado pela função fornecida.
 
